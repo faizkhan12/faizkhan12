@@ -10,3 +10,5 @@
 
 ### 💻 Open Source Work Stats
 ![Faiz's Github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12&show_icons=true)
+
+⭐️ From [faizkhan12](https://github.com/faizkhan12)
