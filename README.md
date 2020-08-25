@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ### 💻 Open Source Work Stats
-![Faiz's Github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12&show_icons=true)
+![Faiz's Github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12&show_icons=true&count_private=true)
 
 ⭐️ From [faizkhan12](https://github.com/faizkhan12)
