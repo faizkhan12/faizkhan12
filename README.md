@@ -12,4 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=faizkhan12&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan12&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
 
+### My card 
+![Alt text](Screenshot_20201215-223932__01.jpg?raw=true "My Card")
+
+
 ⭐️ From [faizkhan12](https://github.com/faizkhan12)
