@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Faiz Khan 👋 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
-- 🔭 I’m currently working on ICSU and Helpful Application
+- 🔭 I’m currently working on ICSU and Helpful Applicationss
 - 🌱 I’m currently learning Node js and React js
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev and Android related Stuffs
