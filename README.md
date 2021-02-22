@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Faiz Khan 👋 </h1>
-<h3 align="center">🚀 Fullstack devlover 🚀</h3>
+<h3 align="center">🚀 Fullstack developer 🚀</h3>
 
 - 🔭 I’m currently working on ICSU and Helpfull Applicationss
 - 🌱 I’m currently learning Node js and React js
