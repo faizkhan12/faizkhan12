@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Faiz Khan 👋 </h1>
+<h1 align="center"> Hello, My name is Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Fullstack developer 🚀</h3>
 
 - 🔭 I’m currently working on dev-camper API in Node.JS  
