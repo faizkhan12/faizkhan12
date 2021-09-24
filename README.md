@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I Eat, Sleep,and Breathe Code
 
 ### 💻 Open Source Work Stats
-<img src="https://github-readme-stats.vercel.app/api?username=faizkhan12&show_icons=true&theme=radical">
-;
+[![faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12)](https://github.com/faizkhan12/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan12&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
 
 
