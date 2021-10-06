@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
 - 💬 Ask me about Web dev and Mobile related Stuffs
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/faiz-khan-8b4a55147/) 
-- ⚡ Fun fact: I Eat, Sleep,and Breathe Code
 
 ### 💻 Open Source Work Stats
 [![faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12)](https://github.com/faizkhan12/github-readme-stats)
