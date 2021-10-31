@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, My name is Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
-- 🔭 I’m currently working on Readme generator Plugin in react and typescript.  
+- 🔭 I’m currently working on JStrings Plugin in react and typescript.  
 - 👨‍💻 I have started developing react/next js clone of every popular websites every week.
 - 🌱 I’m currently learning Node js and Three js
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
