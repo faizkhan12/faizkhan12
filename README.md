@@ -1,6 +1,6 @@
 <img align="right" width="300" height="300" src="https://faizkhan.xyz/static/media/avatar1.0a9cd423.png">
 
-<h1 align="center"> Hi, My name is Faiz Khan 👋 </h1>
+<h1 align="center"> Hi,My name is  Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
 - 🔭 I’m currently working on JStrings plugin in react and typescript.  
