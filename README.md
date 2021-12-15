@@ -3,7 +3,7 @@
 <h1 align="center"> Hi,My name is  Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
-- 🔭 I’m currently working on JStitar plugin in react and typescript.  
+- 🔭 I’m currently working on JSitar plugin in react and typescript.  
 - 👨‍💻 I developed react/next js clone of every popular websites every week.
 - 🌱 I’m currently learning Node js and Three js
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
