@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Jsitar plugin in react and Typescript.  
 - 👨‍💻 I developed react/next js clone of every popular websites every week.
-- 🌱 I’m currently learning Three js Guitar
+- 🌱 I’m currently learning Three js and guitar
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
 - 💬 Ask me about Web dev and Mobile related Stuffs
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/faiz-khan-8b4a55147/) 
