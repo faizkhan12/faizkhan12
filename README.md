@@ -10,11 +10,23 @@
 - 💬 Ask me about Web dev and Mobile related Stuffs
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/faiz-khan-8b4a55147/) 
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Dart | Python | Kotlin  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | ThreeJS 
+- 🛢 &nbsp; MySQL | Firebase | NoSQL
+- 🔧 &nbsp; Android Studio |  Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+
+<br>
+
 ### 💻 Open Source Work Stats
 
-[![faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizkhan12)](https://github.com/faizkhan12/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizkhan12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="faizkhan's Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan12&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizkhan12&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 ⭐️ From [faizkhan12](https://github.com/faizkhan12)
