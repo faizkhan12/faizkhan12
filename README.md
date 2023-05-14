@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on Jsitar plugin in react and Typescript.  
 - 👨‍💻 I developed react/next js clone of every popular websites every week.
-- 🌱 I’m currently learning Three js and guitar
+- 🌱 I’m currently learning Three js, Vue.JS and guitar
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
 - 💬 Ask me about Web dev and Mobile related Stuffs
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/faiz-khan-8b4a55147/) 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Dart | Python | Kotlin  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | ThreeJS 
+- 💻 &nbsp; Javascript | Typescript | Dart | Python | Kotlin  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | React JS | Next JS | ThreeJS 
 - 🛢 &nbsp; MySQL | Firebase | NoSQL
 - 🔧 &nbsp; Android Studio |  Visual Studio code | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
