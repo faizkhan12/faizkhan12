@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Frontend Developer 🚀</h3>
 
 - 🔭 I’m currently working on Astro.JS and Typescript.
-- 🏢 I'm currently building an AI tool (a SaaS Product)
+- 🏢 I'm currently building an AI tool (a SaaS Product) leveraging the power of Stable Diffusion
 - 👨‍💻 I'm interested and looking to talk more about Web Optimization and Server Components.
 - 🌱 I’m currently learning Three js, Vue.JS and guitar
 - 👯 I’m looking to collaborate on MERN stack projects and Mobile Developments
