@@ -1,4 +1,3 @@
-<img align="right" width="300" height="300" src="https://www.faizkhan.xyz/static/media/me_1.2b13260533fd1c25ddca.webp">
 
 <h1 align="center"> Hi,My name is  Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Frontend Developer 🚀</h3>
