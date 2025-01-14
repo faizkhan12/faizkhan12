@@ -15,7 +15,7 @@
 - 💻 &nbsp; Javascript | Typescript | Dart | Python | Kotlin | Web Server
 - 🌐 &nbsp; Android | flutter | HTML | CSS  | React JS | Next JS | ThreeJS 
 - 🛢 &nbsp; MySQL | Firebase | NoSQL
-- 🔧 &nbsp; Android Studio |  Visual Studio code | Git
+- 🔧 &nbsp; Git | Docket | Vagrant | StoryBook | Module Bundler
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
