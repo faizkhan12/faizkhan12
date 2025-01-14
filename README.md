@@ -2,7 +2,7 @@
 <h1 align="center"> Hi,My name is  Faiz Khan 👋 </h1>
 <h3 align="center">🚀 Software Developer 🚀</h3>
 
-- 🔭 I’m currently working on my new UI Component Library - SpectraUI.
+- 🔭 I’m currently working on my new UI Component Library - [Spectra UI](https://github.com/faizkhan12/spectra-ui-component)
 - 🏢 I'm currently building an AI tool (a SaaS Product) leveraging the power of Stable Diffusion
 - 👨‍💻 I'm interested and looking to talk more about Web Optimization and Server Components.
 - 🌱 I’m currently learning Three js and guitar
